@@ -1,4 +1,6 @@
-hello-world
+Hello-World
 ===========
 
-My first repository on GitHub.
+Daniel Ives GitHub Repository.
+
+University Project Work
